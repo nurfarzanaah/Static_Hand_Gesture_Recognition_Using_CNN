@@ -9,6 +9,6 @@ In recent years, the number of studies on hand gesture recognition has grown and
 The difficulty in communication is one of the major barriers faced by deaf community and can affect their life in an undesired way. Even though they use hand gestures along with facial expressions and body movements to communicate, but not many people learn the sign language and can understand them. This barrier is a major social concern and can be solved using the advanced technology in deep learning such as neural networks. However, this learning is heavily reliant on large amount of the training data to avoid overfitting. One of the ways to deal with this problem is using data augmentation. 
 
 ## Research Objectives
-1.To propose a static hand gesture recognition system using convolutional neural network (CNN).
-2.To demonstrate the optimal static hand gesture recognition using various data augmentation techniques. 
-3.To evaluate the performance of the proposed static hand gesture recognition system.
+1. To propose a static hand gesture recognition system using convolutional neural network (CNN).
+2. To demonstrate the optimal static hand gesture recognition using various data augmentation techniques. 
+3. To evaluate the performance of the proposed static hand gesture recognition system.
